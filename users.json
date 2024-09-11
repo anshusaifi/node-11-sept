@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "first_name": "Isac",
+      "last_name": "Aspinal",
+      "email": "iaspinal0@fc2.com",
+      "gender": "Male"
+    },
+    {
+      "id": 2,
+      "first_name": "Liv",
+      "last_name": "Kershaw",
+      "email": "lkershaw1@pagesperso-orange.fr",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "first_name": "Carl",
+      "last_name": "Marriner",
+      "email": "cmarriner2@netscape.com",
+      "gender": "Male"
+    },
+    {
+      "id": 4,
+      "first_name": "Garfield",
+      "last_name": "Gauford",
+      "email": "ggauford3@mozilla.org",
+      "gender": "Male"
+    },
+    {
+      "id": 5,
+      "first_name": "Sabra",
+      "last_name": "Boddam",
+      "email": "sboddam4@360.cn",
+      "gender": "Female"
+    },
+    {
+      "id": 6,
+      "first_name": "Piper",
+      "last_name": "Killner",
+      "email": "pkillner5@ocn.ne.jp",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "first_name": "Madella",
+      "last_name": "Gemelli",
+      "email": "mgemelli6@fda.gov",
+      "gender": "Genderqueer"
+    },
+    {
+      "id": 8,
+      "first_name": "Chrysa",
+      "last_name": "Avis",
+      "email": "cavis7@pbs.org",
+      "gender": "Female"
+    },
+    {
+      "id": 9,
+      "first_name": "Gaelan",
+      "last_name": "Grishaev",
+      "email": "ggrishaev8@npr.org",
+      "gender": "Male"
+    },
+    {
+      "id": 10,
+      "first_name": "Haydon",
+      "last_name": "Smurthwaite",
+      "email": "hsmurthwaite9@howstuffworks.com",
+      "gender": "Male"
+    }
+  ]
+  
